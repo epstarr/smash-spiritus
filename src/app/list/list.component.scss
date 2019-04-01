@@ -1,6 +1,41 @@
 #spirit-list{
     img{
+        height: 100%;
+        width: auto;
+    }
+    #spirit-head {
+        background: #000;
+        color: white;
         width: 100%;
-        height: auto;
+        height: 20px;
+        position: absolute;
+        top: 0;
+        .spirit-type {
+            position: absolute;
+            width: 50px;
+            height: 50px;
+            left: -10px;
+            top: -10px;
+            border-radius: 50%;
+        }
+        .spirit-type+.material-icons {
+            margin-left: 40px;
+            font-size: 14px;
+            margin-top: 3px;
+            color: yellow;
+        }
+        .spirit-type.attack {
+            background: red;
+            background-image: url(../../../src/assets/img/attack-icon.svg);
+            background-size: 50px;
+        }
+        .material-icons {
+            font-size: 14px;
+            margin-top: 3px;
+        }
     }
 }
+mat-grid-tile {
+        border-style: solid;
+        border-width: 0 2px 10px 2px;
+    }

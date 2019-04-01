@@ -1,5 +1,11 @@
-<mat-grid-list id="spirit-list" [cols]="list_cols" rowHeight="1:2" (window:resize)="onResize($event)">
+<mat-grid-list id="spirit-list" [cols]="list_cols" rowHeight="1:1.5" (window:resize)="onResize($event)" gutterSize="10px">
   <mat-grid-tile>
+      <div id="spirit-head">
+  <span class="spirit-type attack"></span><i class="material-icons">
+      star
+      </i><i class="material-icons">
+          star
+          </i></div>
     <img src="https://www.ssbwiki.com/images/e/e1/Metal_Mario_Spirit.png"/>
   </mat-grid-tile>
   <mat-grid-tile>
