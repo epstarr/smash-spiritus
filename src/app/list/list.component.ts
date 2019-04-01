@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Spirit } from "../spirit";
 
 @Component({
   selector: 'app-list',
@@ -8,6 +9,10 @@ import { Component, OnInit } from '@angular/core';
 export class ListComponent implements OnInit {
 
   constructor() { }
+    spirits = [
+    new Spirit(1, "Mario", "https://www.ssbwiki.com/images/e/e1/Metal_Mario_Spirit.png"),
+    new Spirit(2, "Bowser", "https://www.ssbwiki.com/images/f/f8/SPI-Bowser_%28Wedding%29.png")
+  ]
   windowWidth;
   list_cols;
   ngOnInit() {

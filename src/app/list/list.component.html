@@ -1,17 +1,8 @@
 <mat-grid-list id="spirit-list" [cols]="list_cols" rowHeight="1:1.5" (window:resize)="onResize($event)" gutterSize="10px">
-  <mat-grid-tile>
-      <div id="spirit-head">
-  <span class="spirit-type attack"></span><i class="material-icons">
-      star
-      </i><i class="material-icons">
-          star
-          </i></div>
-    <img src="https://www.ssbwiki.com/images/e/e1/Metal_Mario_Spirit.png"/>
-  </mat-grid-tile>
-  <mat-grid-tile>
-    <img src="https://www.ssbwiki.com/images/e/e9/Catpeach.png"/>
-  </mat-grid-tile>
-  <mat-grid-tile>
-    <img src="https://www.ssbwiki.com/images/f/f8/SPI-Bowser_%28Wedding%29.png"/>
+  <mat-grid-tile *ngFor="let spirit of spirits">
+    <div class="spirit-head">
+        <span class="spirit-type attack"></span><i class="material-icons">star</i><i class="material-icons">star</i>
+    </div>
+    <img [src]="spirit.image" />
   </mat-grid-tile>
 </mat-grid-list>
