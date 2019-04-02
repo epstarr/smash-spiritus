@@ -2,7 +2,7 @@ export class Spirit {
     public id: number;
     public name: string;
     public image: string;
-    // type: string;
+    public type: string;
     // class: number;
     // slot: number;
     // min_power: number;
@@ -13,9 +13,10 @@ export class Spirit {
     // max_defense: number;
     // ability: string;
     // origin: string;
-    constructor(id: number,name:string,image:string) {
+    constructor(id: number,name:string,image:string,type:string) {
         this.id = id;
         this.name = name;
         this.image = image;
+        this.type = type;
     }
 }
