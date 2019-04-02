@@ -10,8 +10,8 @@ export class ListComponent implements OnInit {
 
   constructor() { }
     spirits = [
-    new Spirit(1, "Mario", "https://www.ssbwiki.com/images/e/e1/Metal_Mario_Spirit.png", "attack"),
-    new Spirit(2, "Bowser", "https://www.ssbwiki.com/images/f/f8/SPI-Bowser_%28Wedding%29.png", "grab")
+    new Spirit(1, "Mario", "https://www.ssbwiki.com/images/e/e1/Metal_Mario_Spirit.png", "attack", 2),
+    new Spirit(2, "Bowser", "https://www.ssbwiki.com/images/f/f8/SPI-Bowser_%28Wedding%29.png", "grab", 3)
   ]
   windowWidth;
   list_cols;

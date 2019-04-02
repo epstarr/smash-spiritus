@@ -3,6 +3,7 @@ export class Spirit {
     public name: string;
     public image: string;
     public type: string;
+    public rarity: number;
     // class: number;
     // slot: number;
     // min_power: number;
@@ -13,10 +14,11 @@ export class Spirit {
     // max_defense: number;
     // ability: string;
     // origin: string;
-    constructor(id: number,name:string,image:string,type:string) {
+    constructor(id: number,name:string,image:string,type:string,rarity:number) {
         this.id = id;
         this.name = name;
         this.image = image;
         this.type = type;
+        this.rarity = rarity;
     }
 }
