@@ -6,18 +6,20 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SpiritComponent } from './spirit/spirit.component';
 import { ListComponent } from './list/list.component';
+import { SanitizeHtmlPipe } from "./sanitize-html.pipe";
 
 @NgModule({
    declarations: [
       AppComponent,
       SpiritComponent,
-      ListComponent
+      ListComponent,
+      SanitizeHtmlPipe
    ],
    imports: [
       BrowserModule,
       AppRoutingModule,
       BrowserAnimationsModule,
-      MatGridListModule
+      MatGridListModule,
    ],
    providers: [],
    bootstrap: [

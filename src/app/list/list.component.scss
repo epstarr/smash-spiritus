@@ -17,6 +17,7 @@
             left: -10px;
             top: -10px;
             border-radius: 50%;
+            background-size: 50px;
         }
         .spirit-type+.material-icons {
             margin-left: 40px;
@@ -26,8 +27,14 @@
         }
         .spirit-type.attack {
             background: red;
-            background-image: url(../../../src/assets/img/attack-icon.svg);
-            background-size: 50px;
+            // background-image: url(../../../src/assets/img/attack-icon.svg);
+        }
+        .spirit-type.shield {
+            background: blue;
+        }
+        .spirit-type.grab {
+            background: green;
+            // background-image: url(../../../src/assets/img/grab-icon.svg);
         }
         .material-icons {
             font-size: 14px;
