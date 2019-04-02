@@ -21,7 +21,7 @@ export class ListComponent implements OnInit {
       this.list_cols = 3;
     } else if (this.windowWidth < 600 && this.windowWidth >= 400) {
       this.list_cols = 4;
-    } else if (this.windowWidth <= 600 && this.windowWidth >= 1000) {
+    } else if (this.windowWidth >= 600) {
       this.list_cols = 8;
     }
       
@@ -32,7 +32,7 @@ export class ListComponent implements OnInit {
       this.list_cols = 3;
     } else if (this.windowWidth < 600 && this.windowWidth >= 400) {
       this.list_cols = 4;
-    } else if (this.windowWidth >= 600 && this.windowWidth < 1000) {
+    } else if (this.windowWidth >= 600) {
       this.list_cols = 8;
     }
   }
