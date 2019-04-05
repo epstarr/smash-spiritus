@@ -19,11 +19,13 @@
             border-radius: 50%;
             background-size: 50px;
         }
-        .spirit-type+.material-icons {
-            margin-left: 40px;
+        .spirit-type~.material-icons {
             font-size: 14px;
             margin-top: 3px;
             color: yellow;
+        }
+        .spirit-type+.material-icons {
+            margin-left: 40px
         }
         .spirit-type.attack {
             background: red;
