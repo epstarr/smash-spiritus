@@ -14,7 +14,11 @@
     </div>
     <img [src]="spirit.image" />
     <div class="spirit-foot">
+        <div id="slot-1" [innerHTML]="slot_SVG | sanitizeHtml" class="spirit-slots" *ngIf="spirit.slot==1"></div>
+        <div id="slot-2" [innerHTML]="slot_SVG2 | sanitizeHtml" class="spirit-slots" *ngIf="spirit.slot==2"></div>
+        <div id="slot-3" [innerHTML]="slot_SVG3 | sanitizeHtml" class="spirit-slots" *ngIf="spirit.slot==3"></div>
       <span class="spirit-name">{{ spirit.name }}</span>
+      
     </div>
   </mat-grid-tile>
 </mat-grid-list>
