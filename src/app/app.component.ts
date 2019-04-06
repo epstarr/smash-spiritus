@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { Spirit } from './spirit';
 
 @Component({
   selector: 'app-root',
