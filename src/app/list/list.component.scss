@@ -1,4 +1,6 @@
 #spirit-list{
+  max-width: 1800px;
+  margin: auto;
     img{
         height: 100%;
         width: auto;
@@ -57,12 +59,15 @@
           right: 4px;
           top: -22px;
           max-width: 25px;
+          background: black;
+          padding: 5px 5px 0 5px;
+          border-radius: 15px 0 0 0;
         }
         #slot-2 {
-          top: -44px;
+          top: -38px;
         }
         #slot-3 {
-          top: -66px;
+          top: -58px;
         }
     }
 }
@@ -72,7 +77,7 @@
 mat-grid-tile {
     border-style: solid;
     border-width: 2px 2px 0 2px;
-    transition: transform 0.35s ease;
+    transition: transform 0.20s ease;
 }
 mat-grid-tile:hover {
     transform: scale(1.1, 1.1);
