@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { Spirit } from "../spirit";
+import { SpiritComponent } from "../spirit/spirit.component";
 import { trigger, state, style, animate, transition } from "@angular/animations";
+import { MatDialog } from "@angular/material";
 
 @Component({
   selector: 'app-list',
@@ -21,7 +23,7 @@ import { trigger, state, style, animate, transition } from "@angular/animations"
 })
 export class ListComponent implements OnInit {
 
-  constructor() { }
+  constructor(public dialog: MatDialog) { }
     spirits = [
     new Spirit(1, "Metal Mario", "https://www.ssbwiki.com/images/e/e1/Metal_Mario_Spirit.png", "attack", 2, 3),
     new Spirit(2, "Bowser", "https://www.ssbwiki.com/images/f/f8/SPI-Bowser_%28Wedding%29.png", "grab", 3, 2)
@@ -52,7 +54,13 @@ export class ListComponent implements OnInit {
     } else if (this.windowWidth >= 1600 && this.windowWidth < 1800) {
       this.list_cols = 10;
     }
-      
+    
+  }
+  openSpirit(spirit: any) {
+    const dialogRef = this.dialog.open(SpiritComponent, {
+      data: spirit
+    });
+    console.log(spirit)
   }
   onResize(event) {
     this.windowWidth = event.target.innerWidth;

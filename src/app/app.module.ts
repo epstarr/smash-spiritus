@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { SpiritComponent } from './spirit/spirit.component';
 import { ListComponent } from './list/list.component';
 import { SanitizeHtmlPipe } from "./sanitize-html.pipe";
+import { MatDialogModule } from "@angular/material/";
 
 @NgModule({
    declarations: [
@@ -20,8 +21,12 @@ import { SanitizeHtmlPipe } from "./sanitize-html.pipe";
       AppRoutingModule,
       BrowserAnimationsModule,
       MatGridListModule,
+      MatDialogModule
    ],
    providers: [],
+   entryComponents: [
+     SpiritComponent
+   ],
    bootstrap: [
       AppComponent
    ]
