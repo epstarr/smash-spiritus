@@ -1,0 +1,50 @@
+.spirit-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    .spirit-image-wrapper {
+        flex-grow: 1;
+        img {
+            width: 100%;
+            max-width: 300px;
+        }
+    }
+    .spirit-data-wrapper {
+        flex-grow: 1;
+    }
+}
+.spirit-type {
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-size: 50px;
+}
+.spirit-type~.material-icons {
+    font-size: 14px;
+    margin-top: 3px;
+    color: yellow;
+}
+.spirit-type+.material-icons {
+    margin-left: 40px
+}
+.spirit-type.attack {
+    background: red;
+    // background-image: url(../../../src/assets/img/attack-icon.svg);
+}
+.spirit-type.shield {
+    background: blue;
+}
+.spirit-type.grab {
+    background: green;
+    // background-image: url(../../../src/assets/img/grab-icon.svg);
+}
+.material-icons {
+    font-size: 14px;
+    margin-top: 3px;
+}
+@media screen and (min-width: 500px) {
+    .spirit-wrapper {
+        flex-wrap: nowrap;
+    }
+}

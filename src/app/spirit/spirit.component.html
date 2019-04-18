@@ -1,13 +1,26 @@
-<div style="display: flex; flex-direction: row">
-  <div style="flex-grow: 1">
-    <img [src]="spirit.image" style="max-width: 400px;">
+<div class="spirit-wrapper">
+  <div class="spirit-image-wrapper">
+    <img [src]="spirit.image">
   </div>
-  <div style="flex-grow: 1">
-    {{spirit.name}}
-    <i *ngIf="spirit.rarity >= 1" class="material-icons">star</i>
+  <div class="spirit-data-wrapper">
+    <div style="display: flex;">
+      <div style="flex-grow: 1">
+      <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="attack_SVG | sanitizeHtml" *ngIf="spirit.type === 'attack'">
+      </span>
+      <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="grab_SVG | sanitizeHtml" *ngIf="spirit.type === 'grab'">
+      </span>
+      <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="shield_SVG | sanitizeHtml" *ngIf="spirit.type === 'shield'">
+      </span>
+      </div>
+      <div style="flex-grow: 1">
+      <i *ngIf="spirit.rarity >= 1" class="material-icons">star</i>
         <i *ngIf="spirit.rarity >= 2" class="material-icons">star</i>
         <i *ngIf="spirit.rarity >= 3" class="material-icons">star</i>
         <i *ngIf="spirit.rarity == 4" class="material-icons">star</i>
+        <br/>
+      {{spirit.name}}
+      </div>
+        </div>
   </div>
 </div>
 <p>
