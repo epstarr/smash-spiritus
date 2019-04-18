@@ -1,3 +1,15 @@
+<div style="display: flex; flex-direction: row">
+  <div style="flex-grow: 1">
+    <img [src]="spirit.image" style="max-width: 400px;">
+  </div>
+  <div style="flex-grow: 1">
+    {{spirit.name}}
+    <i *ngIf="spirit.rarity >= 1" class="material-icons">star</i>
+        <i *ngIf="spirit.rarity >= 2" class="material-icons">star</i>
+        <i *ngIf="spirit.rarity >= 3" class="material-icons">star</i>
+        <i *ngIf="spirit.rarity == 4" class="material-icons">star</i>
+  </div>
+</div>
 <p>
   {{data.name}}
 </p>

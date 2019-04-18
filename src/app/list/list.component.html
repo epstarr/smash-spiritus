@@ -1,4 +1,4 @@
-<mat-grid-list id="spirit-list" [cols]="list_cols" rowHeight="1:1.5" (window:resize)="onResize($event)" gutterSize="10px">
+<mat-grid-list id="spirit-list" [cols]="listCols" rowHeight="1:1.5" (window:resize)="onResize($event)" gutterSize="10px">
   <mat-grid-tile *ngFor="let spirit of spirits" (click)="openSpirit(spirit)">
     <div class="spirit-head">
         <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="attack_SVG | sanitizeHtml" *ngIf="spirit.type === 'attack'">

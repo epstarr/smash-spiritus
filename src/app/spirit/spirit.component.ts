@@ -1,5 +1,5 @@
 import { Component, Inject } from '@angular/core';
-import { MAT_DIALOG_DATA, MatDialogRef } from "@angular/material";
+import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material';
 
 @Component({
   selector: 'app-spirit',
@@ -9,7 +9,7 @@ import { MAT_DIALOG_DATA, MatDialogRef } from "@angular/material";
 export class SpiritComponent {
 
   constructor(public dialogRef: MatDialogRef<SpiritComponent>,
-    @Inject(MAT_DIALOG_DATA) public data: any) { 
+              @Inject(MAT_DIALOG_DATA) public spirit: any) {
 
     }
 
