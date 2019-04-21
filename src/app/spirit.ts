@@ -6,20 +6,20 @@ export class Spirit {
     public type: string;
     public rarity: number;
     public slot: number;
-    // min_power: number;
-    // max_power: number;
-    // min_attack: number;
-    // max_attack: number;
-    // min_defense: number;
-    // max_defense: number;
+    public power: number;
+    public attack: number;
+    public defense: number;
     // ability: string;
     // origin: string;
-    constructor(id: number,name:string,image:string,type:string,rarity:number,slot:number) {
+    constructor(id: number,name:string,image:string,type:string,rarity:number,slot:number,power:number,attack:number,defense:number) {
         this.id = id;
         this.name = name;
         this.image = image;
         this.type = type;
         this.rarity = rarity;
-        this.slot = slot
+        this.slot = slot;
+        this.power = power;
+        this.attack = attack;
+        this.defense = defense;
     }
 }

@@ -25,8 +25,8 @@ export class ListComponent implements OnInit {
 
   constructor(public dialog: MatDialog) { }
     spirits = [
-    new Spirit(1, 'Metal Mario', 'https://www.ssbwiki.com/images/e/e1/Metal_Mario_Spirit.png', 'attack', 2, 3),
-    new Spirit(2, 'Bowser', 'https://www.ssbwiki.com/images/f/f8/SPI-Bowser_%28Wedding%29.png', 'grab', 3, 2)
+    new Spirit(1, 'Metal Mario', 'https://www.ssbwiki.com/images/e/e1/Metal_Mario_Spirit.png', 'attack', 2, 3, 5000, 500, 1000),
+    new Spirit(2, 'Bowser', 'https://www.ssbwiki.com/images/f/f8/SPI-Bowser_%28Wedding%29.png', 'grab', 3, 2, 3000, 800, 1200)
   ]
   windowWidth;
   listCols;
