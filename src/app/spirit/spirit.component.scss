@@ -1,126 +1,122 @@
-@import '../../assets/css/variables';
-@import '../../assets/css/meters';
+@import "../../assets/css/variables";
+@import "../../assets/css/meters";
 .spirit-wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-width: 350px;
+  .spirit-image-wrapper {
+    position: relative;
+    flex-grow: 1;
+    margin-bottom: 20px;
+    background: grey;
+    .spirit-type {
+      position: absolute;
+      left: 5px;
+      top: 5px;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      background-size: 50px;
+      margin-right: 10px;
+    }
+    img {
+      width: 100%;
+    }
+    .spirit-name {
+      position: absolute;
+      left: 10px;
+      bottom: 10px;
+      font-size: 28px;
+      font-family: $sans;
+      font-weight: 800;
+      letter-spacing: -2px;
+      -webkit-text-stroke: 2px #000;
+      color: #fff;
+    }
+    .spirit-rarity-wrapper {
+      position: absolute;
+      bottom: 38px;
+      left: 8px;
+    }
+  }
+  .spirit-data-wrapper {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
-    .spirit-image-wrapper {
-        position: relative;
-        flex-grow: 1;
-        margin-bottom: 20px;
-        background: grey;
-        img {
-            width: 100%;
-            max-width: 300px;
-        }
-        .spirit-name {
-          position: absolute;
-          left: 10px;
-          bottom: 10px;
-          font-size: 28px;
-          font-family: $sans;
-          font-weight: 800;
-          letter-spacing: -2px;
-          -webkit-text-stroke: 2px #000;
-          color: #fff;
-      }
-      .spirit-rarity-wrapper {
-        position: absolute;
-        bottom: 38px;
-        left: 8px;
-      }
-    }
-    .spirit-data-wrapper {
+    flex-grow: 1;
+    margin: 0 15px;
+    .attack-defense-stats {
+      display: flex;
+      flex-direction: column;
+      .attack-meter {
         display: flex;
-        flex-direction: column;
         flex-grow: 1;
-        margin: 0 15px;
-        .attack-defense-stats {
-            display: flex;
-            flex-direction: column;
-            .attack-meter {
-                display: flex;
-                flex-grow: 1;
-                .icon {
-                  width: 25px;
-                  img {
-                    width: 100%;
-                  }
-                }
-                .number {
-                  margin: 0 10px 0 5px;
-                  font-family: $sans;
-                  min-width: 35px;
-                }
-                progress {
-                  transform: skewX(20deg);
-                }
-                progress::-webkit-progress-value {
-                  background-color: #CC0000;
-                }
-                progress::-moz-progress-bar {
-                  background-color: #CC0000;
-                }
-            }
-            .defense-meter {
-              display: flex;
-              flex-grow: 1;
-              .icon {
-                width: 25px;
-                img {
-                  width: 100%;
-                }
-            }
-            .number {
-              margin: 0 10px 0 5px;
-              font-family: $sans;
-              min-width: 35px;
-            }
-            progress {
-              transform: skewX(-20deg);
-            }
-            progress::-webkit-progress-value {
-              background-color: #170fe4;
-            }
-            progress::-moz-progress-bar {
-              background-color: #170fe4;
-            }
+        .icon {
+          width: 25px;
+          img {
+            width: 100%;
+          }
+        }
+        .number {
+          margin: 0 10px 0 5px;
+          font-family: $sans;
+          min-width: 35px;
+        }
+        progress {
+          transform: skewX(20deg);
+        }
+        progress::-webkit-progress-value {
+          background-color: #cc0000;
+        }
+        progress::-moz-progress-bar {
+          background-color: #cc0000;
         }
       }
-        div:nth-child(3) {
-            margin-right: 20px;
+      .defense-meter {
+        display: flex;
+        flex-grow: 1;
+        .icon {
+          width: 25px;
+          img {
+            width: 100%;
+          }
         }
-        .spirit-type {
-            display: inline-block;
-            width: 50px;
-            height: 50px;
-            border-radius: 50%;
-            background-size: 50px;
-            margin-right: 10px;
+        .number {
+          margin: 0 10px 0 5px;
+          font-family: $sans;
+          min-width: 35px;
         }
-        .spirit-type + div {
-            display: inline-block;
+        progress {
+          transform: skewX(-20deg);
         }
+        progress::-webkit-progress-value {
+          background-color: #170fe4;
+        }
+        progress::-moz-progress-bar {
+          background-color: #170fe4;
+        }
+      }
     }
+  }
 }
 .material-icons {
-    font-size: 22px;
-    margin-top: 3px;
-    color: red;
+  font-size: 22px;
+  margin-top: 3px;
+  color: red;
 }
 .spirit-type.attack {
-    background: red;
-    // background-image: url(../../../src/assets/img/attack-icon.svg);
+  background: red;
+  // background-image: url(../../../src/assets/img/attack-icon.svg);
 }
 .spirit-type.shield {
-    background: blue;
+  background: blue;
 }
 .spirit-type.grab {
-    background: green;
-    // background-image: url(../../../src/assets/img/grab-icon.svg);
+  background: green;
+  // background-image: url(../../../src/assets/img/grab-icon.svg);
 }
 @media screen and (min-width: 500px) {
-    .spirit-wrapper {
-        flex-wrap: nowrap;
-    }
+  .spirit-wrapper {
+    flex-wrap: nowrap;
+  }
 }

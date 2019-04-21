@@ -2,7 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { Spirit } from '../spirit';
 import { SpiritComponent } from '../spirit/spirit.component';
 import { trigger, state, style, animate, transition } from '@angular/animations';
-import { MatDialog } from '@angular/material';
+import { MatDialog } from '@angular/material'
+import { Overlay } from '@angular/cdk/overlay'
 
 @Component({
   selector: 'app-list',
@@ -23,7 +24,7 @@ import { MatDialog } from '@angular/material';
 })
 export class ListComponent implements OnInit {
 
-  constructor(public dialog: MatDialog) { }
+  constructor(public dialog: MatDialog, public overlay: Overlay) { }
     spirits = [
     new Spirit(1, 'Metal Mario', 'https://www.ssbwiki.com/images/e/e1/Metal_Mario_Spirit.png', 'attack', 2, 3, 5000, 500, 1000),
     new Spirit(2, 'Bowser', 'https://www.ssbwiki.com/images/f/f8/SPI-Bowser_%28Wedding%29.png', 'grab', 3, 2, 3000, 800, 1200)
@@ -59,7 +60,8 @@ export class ListComponent implements OnInit {
   }
   openSpirit(spirit: any) {
     const dialogRef = this.dialog.open(SpiritComponent, {
-      data: spirit
+      data: spirit,
+      scrollStrategy: this.overlay.scrollStrategies.noop()
     });
     console.log(spirit)
   }

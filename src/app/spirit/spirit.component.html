@@ -1,5 +1,14 @@
-<div class="spirit-wrapper">
+<div class="spirit-wrapper" mat-dialog-content>
   <div class="spirit-image-wrapper">
+    <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="attack_SVG | sanitizeHtml"
+      *ngIf="spirit.type === 'attack'">
+    </span>
+    <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="grab_SVG | sanitizeHtml"
+      *ngIf="spirit.type === 'grab'">
+    </span>
+    <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="shield_SVG | sanitizeHtml"
+      *ngIf="spirit.type === 'shield'">
+    </span>
     <img [src]="spirit.image">
     <div class="spirit-rarity-wrapper">
       <i *ngIf="spirit.rarity >= 1" class="material-icons">star</i>
@@ -12,25 +21,14 @@
   <div class="spirit-data-wrapper">
     <div class="attack-defense-stats">
       <div class="attack-meter">
-        <span class="icon"><img src="../../assets/img/attack-icon.png"/></span><span class="number">{{ spirit.attack }}</span><progress min="0" max="7000" [value]="spirit.attack"></progress>
+        <span class="icon"><img src="../../assets/img/attack-icon.png" /></span><span
+          class="number">{{ spirit.attack }}</span><progress min="0" max="7000" [value]="spirit.attack"></progress>
       </div>
       <div class="defense-meter">
-          <span class="icon"><img src="../../assets/img/defense-icon.png"/></span><span class="number">{{ spirit.defense }}</span><progress min="0" max="7000" [value]="spirit.defense"></progress>
-      </div>
-    </div>
-    <div>
-      <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="attack_SVG | sanitizeHtml"
-        *ngIf="spirit.type === 'attack'">
-      </span>
-      <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="grab_SVG | sanitizeHtml"
-        *ngIf="spirit.type === 'grab'">
-      </span>
-      <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="shield_SVG | sanitizeHtml"
-        *ngIf="spirit.type === 'shield'">
-      </span>
-      <div>
-        <br />
+        <span class="icon"><img src="../../assets/img/defense-icon.png" /></span><span
+          class="number">{{ spirit.defense }}</span><progress min="0" max="7000" [value]="spirit.defense"></progress>
       </div>
     </div>
   </div>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab quam veritatis minima nostrum, repudiandae molestiae veniam perspiciatis labore amet harum unde saepe sit reprehenderit delectus possimus nihil necessitatibus excepturi aperiam!</p>
 </div>
