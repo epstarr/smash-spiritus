@@ -7,7 +7,9 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "publish": "ng build --prod --base-href 'https://epstarr.github.io/smash-spiritus/' && npx ngh --dir=dist/smash-spiritus",
+    "sudo-publish": "sudo ng build --prod --base-href 'https://epstarr.github.io/smash-spiritus/' && sudo npx ngh --dir=dist/smash-spiritus"
   },
   "private": true,
   "dependencies": {
