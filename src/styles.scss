@@ -4,6 +4,10 @@
   font-family: 'Rodin';
   src: url(./assets/fonts/FOT-RodinHimawariPro-UB.otf);
 }
+// From https://imgur.com/gallery/JioDldV
+body {
+  background: url(./assets/img/bg.png);
+}
 .mat-figure {
     padding: 20px 0 !important;
 }
