@@ -30,7 +30,8 @@
               "src/styles.scss"
             ],
             "scripts": [
-              "node_modules/hammerjs/hammer.min.js"
+              "node_modules/hammerjs/hammer.min.js",
+              "node_modules/granim/dist/granim.min.js"
             ],
             "es5BrowserSupport": true
           },
