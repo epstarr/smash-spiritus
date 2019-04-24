@@ -5,6 +5,8 @@
     "ng": "ng",
     "start": "ng serve",
     "sudo-start": "sudo ng serve",
+    "clean": "rm -rf node_modules",
+    "reinstall": "npm run clean && npm install",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",

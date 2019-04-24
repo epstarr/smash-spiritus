@@ -25,12 +25,13 @@
       box-shadow: 1px 1px 6px #676767;
     }
     .spirit-type ~ .material-icons {
-      font-size: 14px;
+      font-size: 16px;
       margin-top: 3px;
       color: yellow;
+      float: right;
     }
     .spirit-type + .material-icons {
-      margin-left: 40px;
+      margin-right: 5px;
     }
     .spirit-type.attack {
       background: red;
@@ -79,8 +80,9 @@
       overflow: hidden;
       white-space: nowrap;
       letter-spacing: -1px;
-      height: 20px;
-      line-height: 20px;
+      height: 18px;
+      line-height: 16px;
+      font-size: 18px;
     }
   }
   .shine {
