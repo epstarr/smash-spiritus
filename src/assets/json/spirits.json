@@ -1,0 +1,1217 @@
+[{id: 21,
+image: Metal_Mario_Spirit.png,
+</td>
+name: <a href="/Metal_Mario" title="Metal Mario">Metal Mario</a>,
+</td>
+"type": shield,
+</td>
+"rarity": 3,
+</td>
+<td>1
+</td>
+"power": 8,156,
+"attack": 1,539,
+ "2defense": 6,156
+</td>
+<td>Weight ↑
+</td>
+<td><i>Super Mario 64</i><br>(Artwork: <i>Mario Kart 7</i>)
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 6000G
+</td></tr>
+{id: 28,
+image: Catpeach.png,
+</td>
+name: Cat Princess <a href="/Peach" class="mw-redirect" title="Peach">Peach</a>,
+</td>
+"type": shield,
+</td>
+"rarity": 3,
+</td>
+<td>3
+</td>
+"power": 9,346,
+"attack": 4,853,
+"defense": 4,134
+</td>
+<td>Weight ↓
+</td>
+<td><i>Super Mario 3D World</i>
+</td>
+<td>•Summon with cores from Rover and Baby Peach
+</td></tr>
+{id: 30,
+image: SPI-Bowser_,
+</td>
+name: <a href="/Bowser" title="Bowser">Bowser</a> (Wedding),
+</td>
+"type": "grab",
+</td>
+"rarity": 3,
+</td>
+<td>2
+</td>
+"power": 8,516,
+"attack": 5,536,
+"defense": 2,980
+</td>
+<td>No Effect
+</td>
+<td><i>Super Mario Odyssey</i>
+</td>
+<td>•Battle via World of Light (The Final Battle - Dark)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 6000G<br>•Scan the Wedding Bowser amiibo
+</td></tr>
+{id: 31,
+image: Toad_Spirit.png,
+</td>
+name: <a href="/Toad" title="Toad">Toad</a>,
+</td>
+"type": "grab",
+</td>
+"rarity": 2,
+</td>
+<td>3
+</td>
+"power": 5,727,
+"attack": 2,520,
+"defense": 3,207
+</td>
+<td>Can Be Enhanced at Lv. 99
+</td>
+<td><i>Super Mario Bros.</i><br>(Artwork: Nintendo Kids Club UK site)
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G<br>•Scan the Toad amiibo
+</td></tr>
+{id: 32,
+image: Captain_Toad_Spirit.png,
+</td>
+name: <a href="/Captain_Toad" class="mw-redirect" title="Captain Toad">Captain Toad</a>,
+</td>
+"type": "grab",
+</td>
+"rarity": 3,
+</td>
+<td>3
+</td>
+"power": 9,453,
+"attack": 4,454,
+"defense": 4,636
+</td>
+<td>Item Gravitation
+</td>
+<td><i>Super Mario Galaxy</i><br>(Artwork: <i>Captain Toad: Treasure Tracker</i>)
+</td>
+<td>•Enhance the Toad spirit
+</td></tr>
+{id: 35,
+image: Waluigi_Spirit.png,
+</td>
+name: <a href="/Waluigi" title="Waluigi">Waluigi</a>,
+</td>
+"type": neutral,
+</td>
+"rarity": 3,
+</td>
+<td>3
+</td>
+"power": 8,579,
+"attack": 5,362,
+"defense": 2,887
+</td>
+<td>Foot Attack ↑
+</td>
+<td><i><a href="https://www.mariowiki.com/Mario_Tennis_(Nintendo_64)" class="extiw" title="mariowiki:Mario Tennis (Nintendo 64)">Mario Tennis</a></i><br>(Artwork: <i>Mario Party 10</i>)
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 6000G<br>•Scan the Waluigi amiibo
+</td></tr>
+{id: 36,
+image: Goomba_Spirit.png,
+</td>
+name: <a href="/Goomba" title="Goomba">Goomba</a>,
+</td>
+"type": neutral,
+</td>
+"rarity": 1,
+</td>
+<td>2
+</td>
+"power": 3,758,
+"attack": 1,807,
+"defense": 1,807
+</td>
+<td>Foot Attack ↑
+</td>
+<td><i>Super Mario Bros.</i><br>(Artwork: <i>New Super Mario Bros.</i>)
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G<br>•Scan the Goomba amiibo
+</td></tr>
+{id: 38,
+image: Hammer_Bro_Spirit.png,
+</td>
+name: <a href="/Hammer_Bro" title="Hammer Bro">Hammer Bro</a>,
+</td>
+"type": "grab",
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 6,212,
+"attack": 4,103,
+"defense": 1,758
+</td>
+<td>Jump ↑
+</td>
+<td><i>Super Mario Bros.</i><br>(Artwork: <i>New Super Mario Bros. U</i>)
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 39,
+image: Iggyandco.png,
+</td>
+name: <a href="/Lakitu_and_Spinies" title="Lakitu and Spinies">Lakitu &amp; Spiny</a>,
+</td>
+"type": "grab",
+</td>
+"rarity": 2,
+</td>
+<td>3
+</td>
+"power": 6,434,
+"attack": 3,279,
+"defense": 2,908
+</td>
+<td>Weight ↓
+</td>
+<td><i>Super Mario Bros.</i><br>(Artwork: <i>New Super Mario Bros.</i>)
+</td>
+<td>•Battle via World of Light (Mysterious Dimension)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 40,
+image: Blooper_spirit.png,
+</td>
+name: <a href="/Blooper" class="mw-redirect" title="Blooper">Blooper</a>,
+</td>
+"type": shield,
+</td>
+"rarity": 1,
+</td>
+<td>1
+</td>
+"power": 5,974,
+"attack": 2,384,
+"defense": 3,361
+</td>
+<td>Weight ↓
+</td>
+<td><i>Super Mario Bros.</i><br>(Artwork: <i>New Super Mario Bros.</i>)
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G
+</td></tr>
+{id: 41,
+image: Bulletbill.png,
+</td>
+name: <a href="/Bullet_Bill" class="mw-redirect" title="Bullet Bill">Bullet Bill</a>,
+</td>
+"type": attack,
+</td>
+"rarity": 1,
+</td>
+<td>1
+</td>
+"power": 4,530,
+"attack": 2,877,
+"defense": 1,653
+</td>
+<td>Can Be Enhanced at Lv. 99
+</td>
+<td><i>Super Mario Bros.</i><br>(Artwork: <i>Mario Kart Wii</i>)
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G
+</td></tr>
+{id: 42,
+image: Banzai_Bill_Spirit.png,
+</td>
+name: <a href="/Banzai_Bill" title="Banzai Bill">Banzai Bill</a>,
+</td>
+"type": attack,
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 7,475,
+"attack": 4,708,
+"defense": 2,480
+</td>
+<td>Impact Run
+</td>
+<td><i>Super Mario World</i><br>(Artwork: <i>New Super Mario Bros. U</i>)
+</td>
+<td>•Enhance the Bullet Bill spirit
+</td></tr>
+{id: 43,
+image: Shyguy.png,
+</td>
+name: <a href="/Shy_Guy" title="Shy Guy">Shy Guy</a>,
+</td>
+"type": neutral,
+</td>
+"rarity": 1,
+</td>
+<td>2
+</td>
+"power": 3,979,
+"attack": 2,085,
+"defense": 1,741
+</td>
+<td>Fist Attack ↑
+</td>
+<td><i>Yume Kōjō: Doki Doki Panic</i><br>(Artwork: <i>Captain Toad: Treasure Tracker</i>)
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G
+</td></tr>
+{id: 45,
+image: Birdo_Spirit.png,
+</td>
+name: <a href="/Birdo" title="Birdo">Birdo</a>,
+</td>
+"type": "grab",
+</td>
+"rarity": 3,
+</td>
+<td>2
+</td>
+"power": 8,516,
+"attack": 3,917,
+"defense": 4,599
+</td>
+<td>No Effect
+</td>
+<td><i>Yume Kōjō: Doki Doki Panic</i><br>(Artwork: <i>Mario Party 7</i>)
+</td>
+<td>•Summon with cores from T-Rex and Starly
+</td></tr>
+{id: 46,
+image: Mouser.png,
+</td>
+name: Mouser,
+</td>
+"type": "grab",
+</td>
+"rarity": 1,
+</td>
+<td>1
+</td>
+"power": 5,548,
+"attack": 2,885,
+"defense": 2,663
+</td>
+<td>No Effect
+</td>
+<td><i>Yume Kōjō: Doki Doki Panic</i><br>(Artwork: <i>Super Mario USA</i>)
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G
+</td></tr>
+{id: 47,
+image: Wart.png,
+</td>
+name: <a href="/Wart" class="mw-redirect" title="Wart">Wart</a>,
+</td>
+"type": "grab",
+</td>
+"rarity": 2,
+</td>
+<td>2
+</td>
+"power": 6,180,
+"attack": 2,719,
+"defense": 3,461
+</td>
+<td>No Effect
+</td>
+<td><i>Yume Kōjō: Doki Doki Panic</i><br>(Artwork: <i>Super Mario USA</i>)
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 48,
+image: Boo_Spirit.png,
+</td>
+name: <a href="/Boo" title="Boo">Boo</a>,
+</td>
+"type": neutral,
+</td>
+"rarity": 1,
+</td>
+<td>3
+</td>
+"power": 4,035,
+"attack": 1,715,
+"defense": 2,320
+</td>
+<td>Can Be Enhanced at Lv. 99
+</td>
+<td><i>Super Mario Bros. 3</i><br>(Artwork: <i>New Super Mario Bros. U</i>)
+</td>
+<td>•Battle via World of Light (Dracula's Castle)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G<br>•Scan the Boo amiibo
+</td></tr>
+{id: 49,
+image: KB_Spirit.png,
+</td>
+name: <a href="/King_Boo" class="mw-redirect" title="King Boo">King Boo</a>,
+</td>
+"type": neutral,
+</td>
+"rarity": 2,
+</td>
+<td>3
+</td>
+"power": 6,612,
+"attack": 3,020,
+"defense": 3,338
+</td>
+<td>Floaty Jumps
+</td>
+<td><i>Luigi's Mansion</i><br>(Artwork: <i>Luigi's Mansion: Dark Moon</i>)
+</td>
+<td>•Enhance the Boo spirit
+</td></tr>
+{id: 51,
+image: Chainchomp.png,
+</td>
+name: <a href="/Chain_Chomp" title="Chain Chomp">Chain Chomp</a>,
+</td>
+"type": attack,
+</td>
+"rarity": 2,
+</td>
+<td>0
+</td>
+"power": 7,062,
+"attack": 3,898,
+"defense": 2,765
+</td>
+<td>Weight ↑
+</td>
+<td><i>Super Mario Bros. 3</i><br>(Artwork: <i>Mario Party 8</i>)
+</td>
+<td>•Purchase at Timmy and Tommy's for 1000SP<br>•Battle via Spirit Board
+</td></tr>
+{id: 53,
+image: Nipper_Plant_Spirit.png,
+</td>
+name: Nipper Plant,
+</td>
+"type": "grab",
+</td>
+"rarity": 1,
+</td>
+<td>2
+</td>
+"power": 4,309,
+"attack": 2,176,
+"defense": 2,133
+</td>
+<td>Can Be Enhanced at Lv. 99
+</td>
+<td><i>Super Mario Bros. 3</i>
+</td>
+<td>•Purchase at Beedle's Tent for 500SP<br>•Battle via Spirit Board
+</td></tr>
+{id: 54,
+image: Petey_Piranha_Spirit.png,
+</td>
+name: <a href="/Petey_Piranha" title="Petey Piranha">Petey Piranha</a>,
+</td>
+"type": "grab",
+</td>
+"rarity": 3,
+</td>
+<td>2
+</td>
+"power": 9,989,
+"attack": 4,862,
+"defense": 3,978
+</td>
+<td>Giant
+</td>
+<td><i>Super Mario Sunshine</i><br>(Artwork: <i>Mario Super Sluggers</i>)
+</td>
+<td>•Enhance the Nipper Plant spirit
+</td></tr>
+{id: 55,
+image: Boom_Boom_Spirit.png,
+</td>
+name: <a href="/Boom_Boom" class="mw-redirect" title="Boom Boom">Boom Boom</a>,
+</td>
+"type": attack,
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 6,650,
+"attack": 2,660,
+"defense": 3,990
+</td>
+<td>Can Be Enhanced at Lv. 99
+</td>
+<td><i>Super Mario Bros. 3</i><br>(Artwork: In-game render from <i>Super Mario 3D World</i>)
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 56,
+image: Boomboompowpow.png,
+</td>
+name: Boom Boom &amp; Pom Pom,
+</td>
+"type": attack,
+</td>
+"rarity": 3,
+</td>
+<td>1
+</td>
+"power": 9,271,
+"attack": 3,877,
+"defense": 4,552
+</td>
+<td>Hyper Smash Attacks
+</td>
+<td>Boom Boom: <i>Super Mario Bros 3</i><br>Pom Pom: <i>Super Mario 3D Land</i><br>(Artwork: <i>Super Mario 3D Land</i>)
+</td>
+<td>•Enhance the Boom Boom spirit
+</td></tr>
+{id: 57,
+image: Tatanga.png,
+</td>
+name: Tatanga,
+</td>
+"type": shield,
+</td>
+"rarity": 2,
+</td>
+<td>2
+</td>
+"power": 6,879,
+"attack": 3,405,
+"defense": 3,474
+</td>
+<td>No Effect
+</td>
+<td><i>Super Mario Land</i>
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 59,
+image: Chuck.png,
+</td>
+name: Chargin' Chuck,
+</td>
+"type": attack,
+</td>
+"rarity": 1,
+</td>
+<td>1
+</td>
+"power": 4,536,
+"attack": 1,134,
+"defense": 3,402
+</td>
+<td>No Effect
+</td>
+<td><i>Super Mario World</i>
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G
+</td></tr>
+{id: 61,
+image: Kamek_Spirit.png,
+</td>
+name: <a href="/Kamek" title="Kamek">Kamek</a>,
+</td>
+"type": "grab",
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 6,583,
+"attack": 2,702,
+"defense": 3,509
+</td>
+<td>Magic Attack ↑
+</td>
+<td><i>Super Mario World 2: Yoshi's Island</i><br>(Artwork: <i>Mario Party: Star Rush</i>)
+</td>
+<td>•Battle via World of Light (Molten Fortress)<br>•Battle via Spirit Board (unlocked after obtaining spirit once)<br>•Purchase from the Vault Shop for 1000G (unlocked after obtaining spirit once)
+</td></tr>
+{id: 63,
+image: Dry_Bowser_,
+</td>
+name: Dry <a href="/Bowser" title="Bowser">Bowser</a>,
+</td>
+"type": shield,
+</td>
+"rarity": 4
+</td>
+<td>1
+</td>
+"power": 12,137,
+"attack": 4,579,
+ "2defense": 6,455
+</td>
+<td>Fire Attack ↑
+</td>
+<td><i>New Super Mario Bros.</i><br>(Artwork: <i>Mario Kart Wii</i>)
+</td>
+<td>•Battle via World of Light (Dracula's Castle)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 15,000G
+</td></tr>
+{id: 65,
+image: SPI-Big_Urchin.png,
+</td>
+name: Big Urchin,
+</td>
+"type": shield,
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 7,670,
+"attack": 3,618,
+"defense": 3,618
+</td>
+<td>Electric Weakness
+</td>
+<td><i>New Super Mario Bros. Wii</i><br>(Artwork: <i>Super Smash Bros. for Wii U</i>)
+</td>
+<td>•Purchase at Beedle's Tent for 1000SP<br>•Battle via Spirit Board
+</td></tr>
+{id: 66,
+image: Kingbomomb.png,
+</td>
+name: King Bob-omb,
+</td>
+"type": attack,
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 7,248,
+""attack": 3,590<br><a href="/File:Equipment_Icon_Protection_Badge.png" class="image"><img alt="Equipment Icon Protection Badge.png" src="/images/thumb/4/4e/Equipment_Icon_Protection_Badge.png/20px-Equipment_Icon_Protection_Badge.png" width="20" height="20" srcset="/images/thumb/4/4e/"rarity": pment_Icon_Protection_Badge.png/30px-Equipment_Icon_Protection_Badge.png 1.5x, /images/thumb/4/4e/Equipment_Icon_Protection_Badge.png/40px-Equipment_Icon_Protection_Badge.png 2x"></a>defense": 3,248
+</td>
+<td>Throw "Power" ↑
+</td>
+<td><i>Super Mario 64</i><br>(Artwork: <i>Mario Party 9</i>)
+</td>
+<td>•Summon with cores from Shake King and Bob-omb<br>•Battle via Spirit Board (unlocked after obtaining spirit once)<br>•Purchase from the Vault Shop for 1000G (unlocked after obtaining spirit once)
+</td></tr>
+{id: 70,
+image: Shadow_Mario_Spirit.png,
+</td>
+name: Shadow Mario,
+</td>
+"type": neutral,
+</td>
+"rarity": 3,
+</td>
+<td>3
+</td>
+"power": 8,007,
+"attack": 4,444,
+"defense": 3,563
+</td>
+<td>No Effect
+</td>
+<td><i>Super Mario Sunshine</i>
+</td>
+<td>•Summon with cores from Vince, Eddy, and any <a href="/File:Spirit"Type"neutral" class="image"><img alt="Spirit"Type"neutral" src="/images/thumb/d/d4/Spirit"Type"neutral/20px-Spirit"Type"neutral" width="20" height="20" srcset="/images/thumb/d/d4/Spirit"Type"neutral/30px-Spirit"Type"neutral 1.5x, /images/thumb/d/d4/Spirit"Type"neutral/40px-Spirit"Type"neutral 2x"></a> core<br>•Battle via Spirit Board (unlocked after obtaining spirit once)<br>•Purchase from the Vault Shop for 6000G (unlocked after obtaining spirit once)
+</td></tr>
+{id: 81,
+image: Goo_Goo_Buggy_Spirit.png,
+</td>
+name: Goo-Goo Buggy,
+</td>
+"type": attack,
+</td>
+"rarity": 2,
+</td>
+<td>2
+</td>
+"power": 6,928,
+"attack": 3,631,
+"defense": 3,031
+</td>
+<td>Weight ↓
+</td>
+<td><i>Mario Kart: Double Dash!!</i>
+</td>
+<td>•Complete Challenge (Smash): <i>Get 3 KOs within the first minute of a battle</i>.<br>•Battle via Spirit Board (unlocked after obtaining spirit once)<br>•Purchase from the Vault Shop for 1000G (unlocked after obtaining spirit once)
+</td></tr>
+{id: 88,
+image: Toad_in_cheep_charger.png,
+</td>
+name: Cheep Charger,
+</td>
+"type": "grab",
+</td>
+"rarity": 1,
+</td>
+<td>1
+</td>
+"power": 4,951,
+"attack": 2,190,
+"defense": 2,571
+</td>
+<td>Speed ↑
+</td>
+<td><i>Mario Kart Wii</i>
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G
+</td></tr>
+{id: 90,
+image: Biddybuggy_Spirit.png,
+</td>
+name: Biddybuggy,
+</td>
+"type": "grab",
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 8,385,
+"attack": 3,548,
+"defense": 4,515
+</td>
+<td>Weight ↓
+</td>
+<td><i>Mario Kart 8</i>
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 91,
+image: Badwagon_Spirit.png,
+</td>
+name: Badwagon,
+</td>
+"type": shield,
+</td>
+"rarity": 3,
+</td>
+<td>2
+</td>
+"power": 7,904,
+"attack": 3,534,
+"defense": 4,066
+</td>
+<td>Speed ↑
+</td>
+<td><i>Mario Kart 8</i>
+</td>
+<td>•Purchase at Funky Kong's Shack for 4000SP<br>•Battle via Spirit Board
+</td></tr>
+{id: 93,
+image: Master_Cycle_Spirit.png,
+</td>
+name: Master Cycle,
+</td>
+"type": "grab",
+</td>
+"rarity": 4
+</td>
+<td>2
+</td>
+"power": 10,440,
+"attack": 5,471,
+"defense": 4,568
+</td>
+<td>Speed ↑
+</td>
+<td><i>Mario Kart 8</i>
+</td>
+<td>•Summon with cores from Mach Rider, City Tripper, Excitebike, and any <a href="/File:Spirit"Type"attack" class="image"><img alt="Spirit"Type"attack" src="/images/thumb/6/6f/Spirit"Type"attack/20px-Spirit"Type"attack" width="20" height="20" srcset="/images/thumb/6/6f/Spirit"Type"attack/30px-Spirit"Type"attack 1.5x, /images/thumb/6/6f/Spirit"Type"attack/40px-Spirit"Type"attack 2x"></a> core
+</td></tr>
+{id: 94,
+image: Papermario.png,
+</td>
+name: Paper <a href="/Mario" title="Mario">Mario</a>,
+</td>
+"type": neutral,
+</td>
+"rarity": 3,
+</td>
+<td>3
+</td>
+"power": 9,724,
+"attack": 5,042,
+"defense": 3,962
+</td>
+<td>Water Weakness
+</td>
+<td><i>Paper Mario</i><br>(Artwork: <i>Paper Mario: Color Splash</i>)
+</td>
+<td>•Summon with cores from Cut Man, Cardboard Box, and any <a href="/File:Spirit"Type"neutral" class="image"><img alt="Spirit"Type"neutral" src="/images/thumb/d/d4/Spirit"Type"neutral/20px-Spirit"Type"neutral" width="20" height="20" srcset="/images/thumb/d/d4/Spirit"Type"neutral/30px-Spirit"Type"neutral 1.5x, /images/thumb/d/d4/Spirit"Type"neutral/40px-Spirit"Type"neutral 2x"></a> core
+</td></tr>
+{id: 95,
+image: Paper_Bowser_Spirit.png,
+</td>
+name: Paper Bowser,
+</td>
+"type": attack,
+</td>
+"rarity": 3,
+</td>
+<td>2
+</td>
+"power": 9,005,
+"attack": 5,178,
+"defense": 3,827
+</td>
+<td>Can Be Enhanced at Lv. 99
+</td>
+<td><i>Paper Mario</i><br>(Artwork: <i>Mario &amp; Luigi: Paper Jam</i>)
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 6000G
+</td></tr>
+{id: 96,
+image: Paper_Bowser_Sticker_Spirit.png,
+</td>
+name: Paper Bowser (Paper Mario: Sticker Star),
+</td>
+"type": attack,
+</td>
+"rarity": 4
+</td>
+<td>2
+</td>
+"power": 11,640,
+"attack": 5,768,
+"defense": 4,719
+</td>
+<td>Mouthful of <a href="/Curry" class="mw-redirect" title="Curry">Curry</a>
+</td>
+<td><i>Paper Mario: Sticker Star</i>
+</td>
+<td>•Enhance the Paper Bowser spirit
+</td></tr>
+{id: 97,
+image: Kammy_Koopa.png,
+</td>
+name: Kammy Koopa,
+</td>
+"type": attack,
+</td>
+"rarity": 1,
+</td>
+<td>1
+</td>
+"power": 5,255,
+"attack": 2,231,
+"defense": 2,727
+</td>
+<td>Magic Attack ↑
+</td>
+<td><i>Paper Mario</i>
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board (unlocked after obtaining spirit once)<br>•Purchase from the Vault Shop for 500G (unlocked after obtaining spirit once)
+</td></tr>
+{id: 98,
+image: Vivian_Spirit.png,
+</td>
+name: Vivian,
+</td>
+"type": shield,
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 7,926,
+"attack": 3,392,
+"defense": 4,230
+</td>
+<td>Weight ↓
+</td>
+<td><i>Paper Mario: The Thousand-Year Door</i>
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 99,
+image: Shadowqueen.png,
+</td>
+name: Shadow Queen,
+</td>
+"type": attack,
+</td>
+"rarity": 3,
+</td>
+<td>2
+</td>
+"power": 9,359,
+"attack": 5,475,
+"defense": 3,884
+</td>
+<td>No Effect
+</td>
+<td><i>Paper Mario: The Thousand-Year Door</i>
+</td>
+<td>•Summon with cores from Vivian and Gengar
+</td></tr>
+{id: 100,
+image: Mr_L_Spirit.png,
+</td>
+name: Mr. L,
+</td>
+"type": attack,
+</td>
+"rarity": 2,
+</td>
+<td>2
+</td>
+"power": 7,976,
+"attack": 4,210,
+"defense": 3,176
+</td>
+<td>Water Weakness
+</td>
+<td><i>Super Paper Mario</i>
+</td>
+<td>•Battle via World of Light (Sacred Land)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 101,
+image: DimentioSpirit.png,
+</td>
+name: Dimentio,
+</td>
+"type": "grab",
+</td>
+"rarity": 2,
+</td>
+<td>3
+</td>
+"power": 7,449,
+"attack": 3,259,
+"defense": 3,904
+</td>
+<td>Weight ↓
+</td>
+<td><i>Super Paper Mario</i>
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 104,
+image: Genosmrpg.png,
+</td>
+name: Geno,
+</td>
+"type": attack,
+</td>
+"rarity": 4
+</td>
+<td>3
+</td>
+"power": 10,000,
+"attack": 5,250,
+"defense": 4,750
+</td>
+<td>No Effect
+</td>
+<td><i>Super Mario RPG: Legend of the Seven Stars</i>
+</td>
+<td>•Summon with cores from Drake Redcrest, Super Star, any two <a href="/File:Spirit"Type"attack" class="image"><img alt="Spirit"Type"attack" src="/images/thumb/6/6f/Spirit"Type"attack/20px-Spirit"Type"attack" width="20" height="20" srcset="/images/thumb/6/6f/Spirit"Type"attack/30px-Spirit"Type"attack 1.5x, /images/thumb/6/6f/Spirit"Type"attack/40px-Spirit"Type"attack 2x"></a> cores, and any <a href="/File:Spirit"Type"neutral" class="image"><img alt="Spirit"Type"neutral" src="/images/thumb/d/d4/Spirit"Type"neutral/20px-Spirit"Type"neutral" width="20" height="20" srcset="/images/thumb/d/d4/Spirit"Type"neutral/30px-Spirit"Type"neutral 1.5x, /images/thumb/d/d4/Spirit"Type"neutral/40px-Spirit"Type"neutral 2x"></a> core<br>•Battle via World of Light (The Light Realm)<br>•Purchase from the Vault Shop for 15,000G (unlocked after obtaining spirit once)
+</td></tr>
+{id: 105,
+image: PrincePeasleySpirit.png,
+</td>
+name: Prince Peasley,
+</td>
+"type": shield,
+</td>
+"rarity": 1,
+</td>
+<td>1
+</td>
+"power": 4,503,
+"attack": 2,409,
+"defense": 2,094
+</td>
+<td>No Effect
+</td>
+<td><i>Mario &amp; Luigi: Superstar Saga</i>
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G
+</td></tr>
+{id: 106,
+image: FawfulSpiritSSBU.png,
+</td>
+name: Fawful,
+</td>
+"type": neutral,
+</td>
+"rarity": 2,
+</td>
+<td>3
+</td>
+"power": 6,138,
+"attack": 3,185,
+"defense": 2,606
+</td>
+<td>Electric Attack ↑
+</td>
+<td><i>Mario &amp; Luigi: Superstar Saga</i><br>(Artwork: <i>Mario &amp; Luigi: Bowser's Inside Story</i>)
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 107,
+image: Princessshroob.png,
+</td>
+name: Princess Shroob,
+</td>
+"type": neutral,
+</td>
+"rarity": 2,
+</td>
+<td>3
+</td>
+"power": 6,349,
+"attack": 3,365,
+"defense": 2,984
+</td>
+<td>No Effect
+</td>
+<td><i>Mario &amp; Luigi: Partners in Time</i>
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 109,
+image: Broque_Monsieur_Spirit.png,
+</td>
+name: Broque Monsieur,
+</td>
+"type": shield,
+</td>
+"rarity": 1,
+</td>
+<td>1
+</td>
+"power": 5,019,
+"attack": 1,832,
+"defense": 3,187
+</td>
+<td>No Effect
+</td>
+<td><i>Mario &amp; Luigi: Bowser's Inside Story</i>
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G
+</td></tr>
+{id: 110,
+image: Dreambert.png,
+</td>
+name: Dreambert,
+</td>
+"type": shield,
+</td>
+"rarity": 1,
+</td>
+<td>2
+</td>
+"power": 4,535,
+"attack": 2,131,
+"defense": 2,404
+</td>
+<td>No Effect
+</td>
+<td><i>Mario &amp; Luigi: Dream Team</i>
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G
+</td></tr>
+{id: 112,
+image: Papercraft_Mario_Spirit.png,
+</td>
+name: Papercraft Mario,
+</td>
+"type": attack,
+</td>
+"rarity": 1,
+</td>
+<td>3
+</td>
+"power": 5,187,
+"attack": 3,068,
+"defense": 1,920
+</td>
+<td>Fire Weakness
+</td>
+<td><i>Mario &amp; Luigi: Paper Jam</i>
+</td>
+<td>•Purchase at Funky Kong's Shack for 500SP
+</td></tr>
+{id: 115,
+image: Eggplant_Man.png,
+</td>
+name: Eggplant Man,
+</td>
+"type": shield,
+</td>
+"rarity": 1,
+</td>
+<td>1
+</td>
+"power": 4,773,
+"attack": 2,172,
+"defense": 2,601
+</td>
+<td>No Effect
+</td>
+<td><i>Wrecking Crew</i>
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G
+</td></tr>
+{id: 124,
+image: Waluigi,
+</td>
+name: <a href="/Waluigi" title="Waluigi">Waluigi</a> (Super Mario Strikers),
+</td>
+"type": "grab",
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 6,479,
+"attack": 3,271,
+"defense": 2,959
+</td>
+<td>Foot Attack ↑
+</td>
+<td><i>Mario Strikers Charged</i>
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 125,
+image: Petepiranhastrikers.png,
+</td>
+name: <a href="/Petey_Piranha" title="Petey Piranha">Petey Piranha</a> (Super Mario Strikers),
+</td>
+"type": "grab",
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 6,696,
+"attack": 3,214,
+"defense": 3,482
+</td>
+<td>No Effect
+</td>
+<td><i>Mario Strikers Charged</i>
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 126,
+image: Mini_Mario_Spirit.png,
+</td>
+name: Mini Mario,
+</td>
+"type": neutral,
+</td>
+"rarity": 2,
+</td>
+<td>3
+</td>
+"power": 6,336,
+"attack": 3,580,
+"defense": 2,756
+</td>
+<td>Can Be Enhanced at Lv. 99
+</td>
+<td><i>Mario vs. Donkey Kong</i>
+</td>
+<td>•Purchase at Timmy and Tommy's for 1000SP
+</td></tr>
+{id: 127,
+image: Mini_Mario_Hammer_Spirit.png,
+</td>
+name: Mini Mario &amp; Hammers,
+</td>
+"type": neutral,
+</td>
+"rarity": 3,
+</td>
+<td>3
+</td>
+"power": 8,917 ,
+"attack": 4,789,
+"defense": 3,468
+</td>
+<td>Hammer Duration ↑
+</td>
+<td><i>Mario vs. Donkey Kong 2: March of the Minis</i>
+</td>
+<td>•Enhance the Mini Mario spirit
+</td></tr>
+{id: 129,
+image: Rabbidpeach.png,
+</td>
+name: Rabbid <a href="/Peach" class="mw-redirect" title="Peach">Peach</a>,
+</td>
+"type": shield,
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 6,944,
+"attack": 2,882,
+"defense": 3,669
+</td>
+<td>Jump ↑
+</td>
+<td><i>Mario + Rabbids Kingdom Battle</i>
+</td>
+<td>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 130,
+image: Rabbid_Mario.png,
+</td>
+name: Rabbid <a href="/Mario" title="Mario">Mario</a>,
+</td>
+"type": attack,
+</td>
+"rarity": 2,
+</td>
+<td>1
+</td>
+"power": 6,590,
+"attack": 2,487,
+"defense": 3,730
+</td>
+<td>Jump ↑
+</td>
+<td><i>Mario + Rabbids Kingdom Battle</i>
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 1000G
+</td></tr>
+{id: 131,
+image: Rabbitsdonkey.png,
+</td>
+name: Rabbid Kong,
+</td>
+"type": attack,
+</td>
+"rarity": 1,
+</td>
+<td>1
+</td>
+"power": 4,534,
+"attack": 3,209,
+"defense": 1,069
+</td>
+<td>Weight ↑
+</td>
+<td><i>Mario + Rabbids Kingdom Battle</i><br>(Artwork: <i>Mario + Rabbids Kingdom Battle: Donkey Kong Adventure</i>)
+</td>
+<td>•Battle via World of Light (The Light Realm)<br>•Battle via Spirit Board<br>•Purchase from the Vault Shop for 500G
+]
