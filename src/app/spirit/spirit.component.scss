@@ -3,7 +3,7 @@
 .spirit-wrapper {
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   max-width: 350px;
   .spirit-image-wrapper {
     position: relative;
@@ -132,8 +132,8 @@
   background: green;
   // background-image: url(../../../src/assets/img/grab-icon.svg);
 }
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 950px) {
   .spirit-wrapper {
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
   }
 }
