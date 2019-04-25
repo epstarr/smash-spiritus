@@ -365,7 +365,7 @@
   },
   {
     "id": 63,
-    "image": "Dry_Bowser_",
+    "image": "Dry_Bowser_.png",
     "name": "Dry Bowser",
     "type": "shield",
     "rarity": 4,
@@ -715,7 +715,7 @@
   },
   {
     "id": 124,
-    "image": "Waluigi",
+    "image": "Waluigi1.png",
     "name": "Waluigi",
     "type": "grab",
     "rarity": 2,
