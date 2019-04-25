@@ -8,6 +8,7 @@ import { SpiritComponent } from './spirit/spirit.component';
 import { ListComponent } from './list/list.component';
 import { SanitizeHtmlPipe } from "./sanitize-html.pipe";
 import { MatDialogModule, MatButtonModule, MatIconModule } from "@angular/material/";
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { MatDialogModule, MatButtonModule, MatIconModule } from "@angular/materi
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
+    HttpClientModule,
     MatGridListModule,
     MatDialogModule,
     MatButtonModule,
