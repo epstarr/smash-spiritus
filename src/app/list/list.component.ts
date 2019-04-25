@@ -65,7 +65,7 @@ export class ListComponent implements OnInit {
   }
 
   getJSON() {
-    return this.http.get('./assets/json/spirits.json');
+    return this.http.get('https://raw.githubusercontent.com/epstarr/smash-spiritus/master/src/assets/json/spirits.json');
   }
   openSpirit(spirit: any) {
     const dialogRef = this.dialog.open(SpiritComponent, {
