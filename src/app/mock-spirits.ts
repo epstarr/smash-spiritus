@@ -12,7 +12,8 @@ export const MockSpirits: SpiritData[] = [
     attack: 500,
     defense: 1000,
     effect: '',
-    origin: ''
+    origin: '',
+    obtain: '',
   },
   {
     id: 2,
@@ -26,5 +27,6 @@ export const MockSpirits: SpiritData[] = [
     defense: 1200,
     effect: '',
     origin: '',
+    obtain: '',
   }
 ]
