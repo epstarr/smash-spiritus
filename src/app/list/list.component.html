@@ -11,6 +11,9 @@
       <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="shield_svg | sanitizeHtml"
         *ngIf="spirit.type === 'shield'">
       </span>
+      <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="neutral_svg | sanitizeHtml"
+        *ngIf="spirit.type === 'neutral'">
+      </span>
       <i *ngIf="spirit.rarity >= 1" class="material-icons">star</i>
       <i *ngIf="spirit.rarity >= 2" class="material-icons">star</i>
       <i *ngIf="spirit.rarity >= 3" class="material-icons">star</i>

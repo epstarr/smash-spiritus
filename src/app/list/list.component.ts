@@ -6,7 +6,7 @@ import { trigger, state, style, animate, transition } from '@angular/animations'
 import { MatDialog } from '@angular/material'
 import { Overlay } from '@angular/cdk/overlay'
 import { HttpClient } from '@angular/common/http'
-import { attack_svg, grab_svg, slot_svg, slot_svg2, slot_svg3 } from '../vars'
+import { attack_svg, grab_svg, slot_svg, slot_svg2, slot_svg3, shield_svg, neutral_svg } from '../vars'
 
 @Component({
   selector: 'app-list',
@@ -37,6 +37,8 @@ export class ListComponent implements OnInit {
   listCols;
   attack_svg = attack_svg;
   grab_svg = grab_svg;
+  shield_svg = shield_svg;
+  neutral_svg = neutral_svg;
   slot_svg = slot_svg;
   slot_svg2 = slot_svg2;
   slot_svg3 = slot_svg3;
