@@ -52,16 +52,8 @@ export class ListComponent implements OnInit {
       this.listCols = 5;
     } else if (this.windowWidth >= 800 && this.windowWidth < 1000) {
       this.listCols = 6;
-    } else if (this.windowWidth >= 1000 && this.windowWidth < 1200) {
+    } else if (this.windowWidth >= 1000) {
       this.listCols = 7;
-    } else if (this.windowWidth >= 1200 && this.windowWidth < 1400) {
-      this.listCols = 8;
-    } else if (this.windowWidth >= 1400 && this.windowWidth < 1600) {
-      this.listCols = 9;
-    } else if (this.windowWidth >= 1600 && this.windowWidth < 1800) {
-      this.listCols = 10;
-    } else {
-      this.listCols = 12;
     }
   }
 
@@ -85,16 +77,8 @@ export class ListComponent implements OnInit {
       this.listCols = 5;
     } else if (this.windowWidth >= 800 && this.windowWidth < 1000) {
       this.listCols = 6;
-    } else if (this.windowWidth >= 1000 && this.windowWidth < 1200) {
+    } else if (this.windowWidth >= 1000) {
       this.listCols = 7;
-    } else if (this.windowWidth >= 1200 && this.windowWidth < 1400) {
-      this.listCols = 8;
-    } else if (this.windowWidth >= 1400 && this.windowWidth < 1600) {
-      this.listCols = 9;
-    } else if (this.windowWidth >= 1600 && this.windowWidth < 1800) {
-      this.listCols = 10;
-    } else {
-      this.listCols = 12;
     }
   }
 

@@ -1,13 +1,14 @@
 #menu-button {
-  position: absolute;
-  right: 20px;
-  bottom: 20px;
-  margin: 0;
+  position  : fixed;
+  right     : 20px;
+  bottom    : 20px;
+  margin    : 0;
   transition: margin 1s ease;
 }
+
 #menu-button.active {
-  right: 0;
-  left: 0;
-  margin: auto;
+  right     : 0;
+  left      : 0;
+  margin    : auto;
   transition: margin 1s ease;
 }
