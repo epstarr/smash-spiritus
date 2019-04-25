@@ -1,11 +1,15 @@
-<mat-grid-list id="spirit-list" [cols]="listCols" rowHeight="1:1.5" (window:resize)="onResize($event)" gutterSize="10px">
+<mat-grid-list id="spirit-list" [cols]="listCols" rowHeight="1:1.5" (window:resize)="onResize($event)"
+  gutterSize="10px">
   <mat-grid-tile *ngFor="let spirit of spirits" (click)="openSpirit(spirit)">
     <div class="spirit-head">
-        <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="attack_SVG | sanitizeHtml" *ngIf="spirit.type === 'attack'">
+      <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="attack_svg | sanitizeHtml"
+        *ngIf="spirit.type === 'attack'">
         </span>
-        <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="grab_SVG | sanitizeHtml" *ngIf="spirit.type === 'grab'">
+      <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="grab_svg | sanitizeHtml"
+        *ngIf="spirit.type === 'grab'">
         </span>
-        <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="shield_SVG | sanitizeHtml" *ngIf="spirit.type === 'shield'">
+      <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="shield_svg | sanitizeHtml"
+        *ngIf="spirit.type === 'shield'">
         </span>
         <i *ngIf="spirit.rarity >= 1" class="material-icons">star</i>
         <i *ngIf="spirit.rarity >= 2" class="material-icons">star</i>
@@ -14,9 +18,9 @@
     </div>
     <img [src]="spirit.image" />
     <div class="spirit-foot">
-        <div id="slot-1" [innerHTML]="slot_SVG | sanitizeHtml" class="spirit-slots" *ngIf="spirit.slot==1"></div>
-        <div id="slot-2" [innerHTML]="slot_SVG2 | sanitizeHtml" class="spirit-slots" *ngIf="spirit.slot==2"></div>
-        <div id="slot-3" [innerHTML]="slot_SVG3 | sanitizeHtml" class="spirit-slots" *ngIf="spirit.slot==3"></div>
+      <div id="slot-1" [innerHTML]="slot_svg | sanitizeHtml" class="spirit-slots" *ngIf="spirit.slot==1"></div>
+      <div id="slot-2" [innerHTML]="slot_svg2 | sanitizeHtml" class="spirit-slots" *ngIf="spirit.slot==2"></div>
+      <div id="slot-3" [innerHTML]="slot_svg3 | sanitizeHtml" class="spirit-slots" *ngIf="spirit.slot==3"></div>
       <span class="spirit-name">{{ spirit.name }}</span>
     </div>
     <figure class="shine"></figure>
