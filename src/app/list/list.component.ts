@@ -1,12 +1,11 @@
 import { Component, OnInit } from '@angular/core';
-import { SpiritData } from "../spirit-data";
-import { MockSpirits } from "../mock-spirits";
+import { SpiritData } from '../spirit-data';
 import { SpiritComponent } from '../spirit/spirit.component';
 import { trigger, state, style, animate, transition } from '@angular/animations';
-import { MatDialog } from '@angular/material'
-import { Overlay } from '@angular/cdk/overlay'
-import { HttpClient } from '@angular/common/http'
-import { attack_svg, grab_svg, slot_svg, slot_svg2, slot_svg3, shield_svg, neutral_svg } from '../vars'
+import { MatDialog } from '@angular/material';
+import { Overlay } from '@angular/cdk/overlay';
+import { HttpClient } from '@angular/common/http';
+import { ATTACK, GRAB, SHIELD, NEUTRAL, SLOT1, SLOT2, SLOT3 } from '../vars';
 
 @Component({
   selector: 'app-list',
@@ -35,13 +34,13 @@ export class ListComponent implements OnInit {
   spirits;
   windowWidth;
   listCols;
-  attack_svg = attack_svg;
-  grab_svg = grab_svg;
-  shield_svg = shield_svg;
-  neutral_svg = neutral_svg;
-  slot_svg = slot_svg;
-  slot_svg2 = slot_svg2;
-  slot_svg3 = slot_svg3;
+  attack_svg = ATTACK;
+  grab_svg = GRAB;
+  shield_svg = SHIELD;
+  neutral_svg = NEUTRAL;
+  slot_svg = SLOT1;
+  slot_svg2 = SLOT2;
+  slot_svg3 = SLOT3;
 
   ngOnInit() {
     this.windowWidth = window.innerWidth;
@@ -67,14 +66,14 @@ export class ListComponent implements OnInit {
   }
 
   getJSON() {
-    return this.http.get('https://raw.githubusercontent.com/epstarr/smash-spiritus/master/src/assets/json/spirits.json');
+    return this.http.get<SpiritData>('https://raw.githubusercontent.com/epstarr/smash-spiritus/master/src/assets/json/spirits.json');
   }
   openSpirit(spirit: any) {
     const dialogRef = this.dialog.open(SpiritComponent, {
       data: spirit,
       scrollStrategy: this.overlay.scrollStrategies.noop()
     });
-    console.log(spirit)
+    console.log(spirit);
   }
   onResize(event) {
     this.windowWidth = event.target.innerWidth;
