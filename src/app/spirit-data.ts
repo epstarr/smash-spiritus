@@ -10,4 +10,5 @@ export interface SpiritData {
     defense: number;
     effect: string;
     origin: string;
+    obtain: string;
 }
