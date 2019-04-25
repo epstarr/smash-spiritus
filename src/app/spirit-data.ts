@@ -3,6 +3,9 @@ export interface SpiritData {
     name: string;
     image: string;
     type: string;
-    arity: number;
+    rarity: number;
     slot: number;
+    power: number;
+    attack: number;
+    defense: number;
 }
