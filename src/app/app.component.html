@@ -1,3 +1,7 @@
 <app-list></app-list>
 
 <router-outlet></router-outlet>
+
+<button mat-fab id="menu-button" [ngClass]="menuClass" (click)="menuSwitch()">
+  <mat-icon>reorder</mat-icon>
+</button>

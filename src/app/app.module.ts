@@ -7,28 +7,30 @@ import { AppComponent } from './app.component';
 import { SpiritComponent } from './spirit/spirit.component';
 import { ListComponent } from './list/list.component';
 import { SanitizeHtmlPipe } from "./sanitize-html.pipe";
-import { MatDialogModule } from "@angular/material/";
+import { MatDialogModule, MatButtonModule, MatIconModule } from "@angular/material/";
 
 @NgModule({
-   declarations: [
-      AppComponent,
-      SpiritComponent,
-      ListComponent,
-      SanitizeHtmlPipe
-   ],
-   imports: [
-      BrowserModule,
-      AppRoutingModule,
-      BrowserAnimationsModule,
-      MatGridListModule,
-      MatDialogModule
-   ],
-   providers: [],
-   entryComponents: [
-     SpiritComponent
-   ],
-   bootstrap: [
-      AppComponent
-   ]
+  declarations: [
+    AppComponent,
+    SpiritComponent,
+    ListComponent,
+    SanitizeHtmlPipe,
+  ],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    BrowserAnimationsModule,
+    MatGridListModule,
+    MatDialogModule,
+    MatButtonModule,
+    MatIconModule
+  ],
+  providers: [],
+  entryComponents: [
+    SpiritComponent
+  ],
+  bootstrap: [
+    AppComponent
+  ]
 })
 export class AppModule { }
