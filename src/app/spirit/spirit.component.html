@@ -9,7 +9,7 @@
     <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="shield_SVG | sanitizeHtml"
       *ngIf="spirit.type === 'shield'">
     </span>
-    <img [src]="spirit.image">
+    <img src="./assets/img/spirits/{{spirit.image}}">
     <div class="spirit-rarity-wrapper">
       <i *ngIf="spirit.rarity >= 1" class="material-icons">star</i>
       <i *ngIf="spirit.rarity >= 2" class="material-icons">star</i>
@@ -30,5 +30,7 @@
       </div>
     </div>
   </div>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab quam veritatis minima nostrum, repudiandae molestiae veniam perspiciatis labore amet harum unde saepe sit reprehenderit delectus possimus nihil necessitatibus excepturi aperiam!</p>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab quam veritatis minima nostrum, repudiandae molestiae
+    veniam perspiciatis labore amet harum unde saepe sit reprehenderit delectus possimus nihil necessitatibus excepturi
+    aperiam!</p>
 </div>
