@@ -1,7 +1,7 @@
 [
   {
     "id": 21,
-    "image": "Metal_Mario_Spirit.png",
+    "image": "Metal_Mario_Spirit",
     "name": "Metal Mario",
     "type": "shield",
     "rarity": 3,
@@ -15,7 +15,7 @@
   },
   {
     "id": 28,
-    "image": "Catpeach.png",
+    "image": "Catpeach",
     "name": "Cat Princess Peach",
     "type": "shield",
     "rarity": 3,
@@ -29,7 +29,7 @@
   },
   {
     "id": 30,
-    "image": "SPI-Bowser_(Wedding).png",
+    "image": "SPI-Bowser_(Wedding)",
     "name": "Bowser",
     "type": "grab",
     "rarity": 3,
@@ -43,7 +43,7 @@
   },
   {
     "id": 31,
-    "image": "Toad_Spirit.png",
+    "image": "Toad_Spirit",
     "name": "Toad",
     "type": "grab",
     "rarity": 2,
@@ -57,7 +57,7 @@
   },
   {
     "id": 32,
-    "image": "Captain_Toad_Spirit.png",
+    "image": "Captain_Toad_Spirit",
     "name": "Captain Toad",
     "type": "grab",
     "rarity": 3,
@@ -71,7 +71,7 @@
   },
   {
     "id": 35,
-    "image": "Waluigi_Spirit.png",
+    "image": "Waluigi_Spirit",
     "name": "Waluigi",
     "type": "neutral",
     "rarity": 3,
@@ -85,7 +85,7 @@
   },
   {
     "id": 36,
-    "image": "Goomba_Spirit.png",
+    "image": "Goomba_Spirit",
     "name": "Goomba",
     "type": "neutral",
     "rarity": 1,
@@ -99,7 +99,7 @@
   },
   {
     "id": 38,
-    "image": "Hammer_Bro_Spirit.png",
+    "image": "Hammer_Bro_Spirit",
     "name": "Hammer Bro",
     "type": "grab",
     "rarity": 2,
@@ -113,7 +113,7 @@
   },
   {
     "id": 39,
-    "image": "Iggyandco.png",
+    "image": "Iggyandco",
     "name": "Lakitu &amp; Spiny",
     "type": "grab",
     "rarity": 2,
@@ -127,7 +127,7 @@
   },
   {
     "id": 40,
-    "image": "Blooper_spirit.png",
+    "image": "Blooper_spirit",
     "name": "Blooper",
     "type": "shield",
     "rarity": 1,
@@ -141,7 +141,7 @@
   },
   {
     "id": 41,
-    "image": "Bulletbill.png",
+    "image": "Bulletbill",
     "name": "Bullet Bill",
     "type": "attack",
     "rarity": 1,
@@ -155,7 +155,7 @@
   },
   {
     "id": 42,
-    "image": "Banzai_Bill_Spirit.png",
+    "image": "Banzai_Bill_Spirit",
     "name": "Banzai Bill",
     "type": "attack",
     "rarity": 2,
@@ -169,7 +169,7 @@
   },
   {
     "id": 43,
-    "image": "Shyguy.png",
+    "image": "Shyguy",
     "name": "Shy Guy",
     "type": "neutral",
     "rarity": 1,
@@ -183,7 +183,7 @@
   },
   {
     "id": 45,
-    "image": "Birdo_Spirit.png",
+    "image": "Birdo_Spirit",
     "name": "Birdo",
     "type": "grab",
     "rarity": 3,
@@ -197,7 +197,7 @@
   },
   {
     "id": 46,
-    "image": "Mouser.png",
+    "image": "Mouser",
     "name": "Mouser",
     "type": "grab",
     "rarity": 1,
@@ -211,7 +211,7 @@
   },
   {
     "id": 47,
-    "image": "Wart.png",
+    "image": "Wart",
     "name": "Wart",
     "type": "grab",
     "rarity": 2,
@@ -225,7 +225,7 @@
   },
   {
     "id": 48,
-    "image": "Boo_Spirit.png",
+    "image": "Boo_Spirit",
     "name": "Boo",
     "type": "neutral",
     "rarity": 1,
@@ -239,7 +239,7 @@
   },
   {
     "id": 49,
-    "image": "KB_Spirit.png",
+    "image": "KB_Spirit",
     "name": "King Boo",
     "type": "neutral",
     "rarity": 2,
@@ -253,7 +253,7 @@
   },
   {
     "id": 51,
-    "image": "Chainchomp.png",
+    "image": "Chainchomp",
     "name": "Chain Chomp",
     "type": "attack",
     "rarity": 2,
@@ -267,7 +267,7 @@
   },
   {
     "id": 53,
-    "image": "Nipper_Plant_Spirit.png",
+    "image": "Nipper_Plant_Spirit",
     "name": "Nipper Plant",
     "type": "grab",
     "rarity": 1,
@@ -281,7 +281,7 @@
   },
   {
     "id": 54,
-    "image": "Petey_Piranha_Spirit.png",
+    "image": "Petey_Piranha_Spirit",
     "name": "Petey Piranha",
     "type": "grab",
     "rarity": 3,
@@ -295,7 +295,7 @@
   },
   {
     "id": 55,
-    "image": "Boom_Boom_Spirit.png",
+    "image": "Boom_Boom_Spirit",
     "name": "Boom Boom",
     "type": "attack",
     "rarity": 2,
@@ -309,7 +309,7 @@
   },
   {
     "id": 56,
-    "image": "Boomboompowpow.png",
+    "image": "Boomboompowpow",
     "name": "Boom Boom &amp; Pom Pom",
     "type": "attack",
     "rarity": 3,
@@ -323,7 +323,7 @@
   },
   {
     "id": 57,
-    "image": "Tatanga.png",
+    "image": "Tatanga",
     "name": "Tatanga",
     "type": "shield",
     "rarity": 2,
@@ -337,7 +337,7 @@
   },
   {
     "id": 59,
-    "image": "Chuck.png",
+    "image": "Chuck",
     "name": "Chargin' Chuck",
     "type": "attack",
     "rarity": 1,
@@ -351,7 +351,7 @@
   },
   {
     "id": 61,
-    "image": "Kamek_Spirit.png",
+    "image": "Kamek_Spirit",
     "name": "Kamek",
     "type": "grab",
     "rarity": 2,
@@ -365,7 +365,7 @@
   },
   {
     "id": 63,
-    "image": "Dry_Bowser_.png",
+    "image": "Dry_Bowser_",
     "name": "Dry Bowser",
     "type": "shield",
     "rarity": 4,
@@ -379,7 +379,7 @@
   },
   {
     "id": 65,
-    "image": "SPI-Big_Urchin.png",
+    "image": "SPI-Big_Urchin",
     "name": "Big Urchin",
     "type": "shield",
     "rarity": 2,
@@ -393,7 +393,7 @@
   },
   {
     "id": 66,
-    "image": "Kingbomomb.png",
+    "image": "Kingbomomb",
     "name": "King Bob-omb",
     "type": "attack",
     "rarity": 2,
@@ -407,7 +407,7 @@
   },
   {
     "id": 70,
-    "image": "Shadow_Mario_Spirit.png",
+    "image": "Shadow_Mario_Spirit",
     "name": "Shadow Mario",
     "type": "neutral",
     "rarity": 3,
@@ -421,7 +421,7 @@
   },
   {
     "id": 81,
-    "image": "Goo_Goo_Buggy_Spirit.png",
+    "image": "Goo_Goo_Buggy_Spirit",
     "name": "Goo-Goo Buggy",
     "type": "attack",
     "rarity": 2,
@@ -435,7 +435,7 @@
   },
   {
     "id": 88,
-    "image": "Toad_in_cheep_charger.png",
+    "image": "Toad_in_cheep_charger",
     "name": "Cheep Charger",
     "type": "grab",
     "rarity": 1,
@@ -449,7 +449,7 @@
   },
   {
     "id": 90,
-    "image": "Biddybuggy_Spirit.png",
+    "image": "Biddybuggy_Spirit",
     "name": "Biddybuggy",
     "type": "grab",
     "rarity": 2,
@@ -463,7 +463,7 @@
   },
   {
     "id": 91,
-    "image": "Badwagon_Spirit.png",
+    "image": "Badwagon_Spirit",
     "name": "Badwagon",
     "type": "shield",
     "rarity": 3,
@@ -477,7 +477,7 @@
   },
   {
     "id": 93,
-    "image": "Master_Cycle_Spirit.png",
+    "image": "Master_Cycle_Spirit",
     "name": "Master Cycle",
     "type": "grab",
     "rarity": 4,
@@ -491,7 +491,7 @@
   },
   {
     "id": 94,
-    "image": "Papermario.png",
+    "image": "Papermario",
     "name": "Paper Mario",
     "type": "neutral",
     "rarity": 3,
@@ -505,7 +505,7 @@
   },
   {
     "id": 95,
-    "image": "Paper_Bowser_Spirit.png",
+    "image": "Paper_Bowser_Spirit",
     "name": "Paper Bowser",
     "type": "attack",
     "rarity": 3,
@@ -519,7 +519,7 @@
   },
   {
     "id": 96,
-    "image": "Paper_Bowser_Sticker_Spirit.png",
+    "image": "Paper_Bowser_Sticker_Spirit",
     "name": "Paper Bowser (Paper Mario: Sticker Star)",
     "type": "attack",
     "rarity": 4,
@@ -533,7 +533,7 @@
   },
   {
     "id": 97,
-    "image": "Kammy_Koopa.png",
+    "image": "Kammy_Koopa",
     "name": "Kammy Koopa",
     "type": "attack",
     "rarity": 1,
@@ -547,7 +547,7 @@
   },
   {
     "id": 98,
-    "image": "Vivian_Spirit.png",
+    "image": "Vivian_Spirit",
     "name": "Vivian",
     "type": "shield",
     "rarity": 2,
@@ -561,7 +561,7 @@
   },
   {
     "id": 99,
-    "image": "Shadowqueen.png",
+    "image": "Shadowqueen",
     "name": "Shadow Queen",
     "type": "attack",
     "rarity": 3,
@@ -575,7 +575,7 @@
   },
   {
     "id": 100,
-    "image": "Mr_L_Spirit.png",
+    "image": "Mr_L_Spirit",
     "name": "Mr. L",
     "type": "attack",
     "rarity": 2,
@@ -589,7 +589,7 @@
   },
   {
     "id": 101,
-    "image": "DimentioSpirit.png",
+    "image": "DimentioSpirit",
     "name": "Dimentio",
     "type": "grab",
     "rarity": 2,
@@ -603,7 +603,7 @@
   },
   {
     "id": 104,
-    "image": "Genosmrpg.png",
+    "image": "Genosmrpg",
     "name": "Geno",
     "type": "attack",
     "rarity": 4,
@@ -617,7 +617,7 @@
   },
   {
     "id": 105,
-    "image": "PrincePeasleySpirit.png",
+    "image": "PrincePeasleySpirit",
     "name": "Prince Peasley",
     "type": "shield",
     "rarity": 1,
@@ -631,7 +631,7 @@
   },
   {
     "id": 106,
-    "image": "FawfulSpiritSSBU.png",
+    "image": "FawfulSpiritSSBU",
     "name": "Fawful",
     "type": "neutral",
     "rarity": 2,
@@ -645,7 +645,7 @@
   },
   {
     "id": 107,
-    "image": "Princessshroob.png",
+    "image": "Princessshroob",
     "name": "Princess Shroob",
     "type": "neutral",
     "rarity": 2,
@@ -659,7 +659,7 @@
   },
   {
     "id": 109,
-    "image": "Broque_Monsieur_Spirit.png",
+    "image": "Broque_Monsieur_Spirit",
     "name": "Broque Monsieur",
     "type": "shield",
     "rarity": 1,
@@ -673,7 +673,7 @@
   },
   {
     "id": 110,
-    "image": "Dreambert.png",
+    "image": "Dreambert",
     "name": "Dreambert",
     "type": "shield",
     "rarity": 1,
@@ -687,7 +687,7 @@
   },
   {
     "id": 112,
-    "image": "Papercraft_Mario_Spirit.png",
+    "image": "Papercraft_Mario_Spirit",
     "name": "Papercraft Mario",
     "type": "attack",
     "rarity": 1,
@@ -701,7 +701,7 @@
   },
   {
     "id": 115,
-    "image": "Eggplant_Man.png",
+    "image": "Eggplant_Man",
     "name": "Eggplant Man",
     "type": "shield",
     "rarity": 1,
@@ -715,7 +715,7 @@
   },
   {
     "id": 124,
-    "image": "Waluigi1.png",
+    "image": "Waluigi1",
     "name": "Waluigi",
     "type": "grab",
     "rarity": 2,
@@ -729,7 +729,7 @@
   },
   {
     "id": 125,
-    "image": "Petepiranhastrikers.png",
+    "image": "Petepiranhastrikers",
     "name": "Petey Piranha",
     "type": "grab",
     "rarity": 2,
@@ -743,7 +743,7 @@
   },
   {
     "id": 126,
-    "image": "Mini_Mario_Spirit.png",
+    "image": "Mini_Mario_Spirit",
     "name": "Mini Mario",
     "type": "neutral",
     "rarity": 2,
@@ -757,7 +757,7 @@
   },
   {
     "id": 127,
-    "image": "Mini_Mario_Hammer_Spirit.png",
+    "image": "Mini_Mario_Hammer_Spirit",
     "name": "Mini Mario &amp; Hammers",
     "type": "neutral",
     "rarity": 3,
@@ -771,7 +771,7 @@
   },
   {
     "id": 129,
-    "image": "Rabbidpeach.png",
+    "image": "Rabbidpeach",
     "name": "Rabbid 'Peach'",
     "type": "shield",
     "rarity": 2,
@@ -785,7 +785,7 @@
   },
   {
     "id": 130,
-    "image": "Rabbid_Mario.png",
+    "image": "Rabbid_Mario",
     "name": "Rabbid 'Mario'",
     "type": "attack",
     "rarity": 2,
@@ -799,7 +799,7 @@
   },
   {
     "id": 131,
-    "image": "Rabbitsdonkey.png",
+    "image": "Rabbitsdonkey",
     "name": "Rabbid Kong",
     "type": "attack",
     "rarity": 1,

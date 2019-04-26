@@ -12,7 +12,7 @@
     <span class="spirit-type" [ngClass]="spirit.type" [innerHTML]="neutral_svg | sanitizeHtml"
       *ngIf="spirit.type === 'neutral'">
     </span>
-    <img src="./assets/img/spirits/{{spirit.image}}">
+    <img src="./assets/img/spirits/{{spirit.image}}.webp">
     <div class="spirit-rarity-wrapper">
       <i *ngIf="spirit.rarity >= 1" class="material-icons">star</i>
       <i *ngIf="spirit.rarity >= 2" class="material-icons">star</i>

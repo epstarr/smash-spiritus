@@ -19,7 +19,7 @@
       <i *ngIf="spirit.rarity >= 3" class="material-icons">star</i>
       <i *ngIf="spirit.rarity == 4" class="material-icons">star</i>
     </div>
-    <img src="./assets/img/spirits/{{spirit.image}}" />
+    <img src="./assets/img/spirits/{{spirit.image}}.webp" />
     <div class="spirit-foot">
       <div id="slot-1" [innerHTML]="slot_svg | sanitizeHtml" class="spirit-slots" *ngIf="spirit.slot==1"></div>
       <div id="slot-2" [innerHTML]="slot_svg2 | sanitizeHtml" class="spirit-slots" *ngIf="spirit.slot==2"></div>
